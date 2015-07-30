@@ -1,0 +1,4 @@
+/home/zhangzhiheng/.local/lib/python2.7/site-packages/ACAutomation/__init__.py
+/home/zhangzhiheng/.local/lib/python2.7/site-packages/ACAutomation/__init__.pyc
+/home/zhangzhiheng/.local/lib/python2.7/site-packages/_ACAutomation.so
+/home/zhangzhiheng/.local/lib/python2.7/site-packages/ACAutomation-0.2.egg-info
